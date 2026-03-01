@@ -1,5 +1,6 @@
 import { Navbar } from '../components/sections/Navbar'
 import { HeroSection } from '../components/sections/HeroSection'
+import { AboutSection } from '../components/sections/AboutSection'
 
 export const MainLayout = () => {
   return `
@@ -8,6 +9,7 @@ export const MainLayout = () => {
     </header>
     <main>
     ${HeroSection()}
+    ${AboutSection()}
     </main>
     <footer id="footer"></footer>
   `
