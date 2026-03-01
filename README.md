@@ -26,3 +26,11 @@ This project uses:
 - ESLint for linting
 - Prettier for code formatting
 - EditorConfig for consistent editor rules
+
+## 🔐 Git Hooks
+
+This project uses Husky and lint-staged to ensure:
+
+- Clean commits
+- No lint errors
+- Consistent formatting
