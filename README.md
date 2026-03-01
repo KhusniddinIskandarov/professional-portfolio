@@ -18,3 +18,11 @@ This project demonstrates a professional frontend workflow using:
 ## 🚀 Deployment
 
 Deployment strategy will be documented later.
+
+## 🧹 Code Quality
+
+This project uses:
+
+- ESLint for linting
+- Prettier for code formatting
+- EditorConfig for consistent editor rules
